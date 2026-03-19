@@ -6,6 +6,8 @@
 
 <p align="center">” ᴄ+ ʜ , ɪᴡᴄ !<br>ꜱɪɢɴ ᴀᴛᴀ ୭</p>
 
+<l align="center"> [𝔞𝔱𝔞𝔟𝔬𝔬𝔨](https://shunenough.atabook.org)
+
 ###
 
 <div>
