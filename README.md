@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center"></p>
 
-<!--
-**silencedpistol/silencedpistol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="center">❛❛   ˢᵐᵒᵏᵉ ᵃⁿᵈ ᵃˢʰᵉˢ ᶠʳᵒᵐ ᵗʰᵉˢᵉ <br>ˡᵉᵗᵗᵉʳˢ ᴵ'ᵐ ᵇᵘʳⁿⁱⁿᵍ   ❜❜</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=silencedpistol.silencedpistol&left_color=blue&right_color=midnightblue&left_text=%20%CB%99%F0%90%83%B7%CB%99"  />
+</div>
+
+###
+
+<div align="center">
+  
+[ˢⁱᵍⁿᵃᵗᵃ](https://shunenough.atabook.org)
+
+###
