@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=silencedpistol.silencedpistol&left_color=blue&right_color=midnightblue&left_text=%20%CB%99%F0%90%83%B7%CB%99"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=silencedpistol.silencedpistol&left_color=black&right_color=darkred&left_text=%20%CB%99%F0%90%83%B7%CB%99"  />
 </div>
 
 ###
